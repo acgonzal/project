@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Mon Premier Site</title>
+  <!-- LIEN VERS LE FICHIER CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Bienvenue sur mon site !</h1>
+    <nav>
+      <a href="#">Accueil</a>
+      <a href="#">À propos</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>À propos de moi</h2>
+      <p>Je suis en train d'apprendre à coder des sites web avec HTML et CSS.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 MonSiteWeb</p>
+  </footer>
+</body>
+</html>
